@@ -1,0 +1,81 @@
+.body{
+    display: flex;
+    justify-content: center;
+}
+.counteaner{
+    width: 52vh;
+    height: 60vh;
+    border:2px solid rgb(61, 62, 66);
+    background-color:  rgb(61, 62, 66);
+  
+}
+.left{
+    width: 16vh;
+    height: 60vh;
+    float: left;
+    background-color: rgb(61, 62, 66);
+}
+.left-top{
+    width: 16vh;
+    height: 20vh;
+    background-color: whitesmoke;
+    margin-bottom: 16px;
+    margin-right: 2px;
+    float: inline-start;
+}
+.left-midle{
+    width: 16vh;
+    height: 20vh;
+    background-color: whitesmoke;
+    margin-top: 16px;
+    margin-right: 2px;
+    margin-bottom: 8px;
+}
+.left-bottom{
+    width: 16vh;
+    height: 16vh;
+    background-color: turquoise;
+    margin-top: 8px;
+    float: inline-end;
+}
+.right{
+    display: block;
+    width: 35vh;
+    height: 60vh;
+    float: right;
+    background-color: rgb(61, 62, 66);
+}
+.right-top{
+    width: 34.5vh;
+    height: 42.5vh;
+    background-color: red;
+    margin: 0px 0px 8px 2px;
+}
+.right-buttom{
+
+    width: 34.5vh;
+    height: 16vh;
+    background-color: rgb(61, 62, 66);
+    margin: 0px 0px 0px 2px;
+}
+.right-buttom-left{
+    width: 28vh;
+    height: 16vh;
+    background-color: whitesmoke;
+    float: left;
+}
+.right-buttom-right-top{
+    width: 5vh;
+    height: 7vh;
+    background-color: whitesmoke;
+    float: right;
+    margin-bottom: 8px;
+}
+.right-buttom-right-bottom{
+    width: 5vh;
+    height: 6.5vh;
+    background-color: whitesmoke;
+    float: right; 
+    margin-top: 7px;
+    clear: right;
+}

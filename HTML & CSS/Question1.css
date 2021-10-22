@@ -1,0 +1,16 @@
+.card {
+    background-color: rgb(68, 226, 218);
+    border: 1px solid whitesmoke;
+    width: 100%;
+    height: 98vh ;
+}
+.parag{
+    margin: 0;
+    padding: 5px;
+}
+.myImage1{
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin: 0 20px 0 0;
+}
